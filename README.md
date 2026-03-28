@@ -36,12 +36,10 @@ An enterprise-grade, agentic AI system that autonomously analyzes company earnin
 ---
 
 ### 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohdAnas-123&show_icons=true&theme=radical" alt="Mohd Anas's GitHub Stats" />
-</p>
+[![Mohd Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohdAnas-123&show_icons=true&theme=radical)](https://github.com/MohdAnas-123)
 
 ---
 
 ### 📫 Let's Connect
 * **LinkedIn:** [Mohd Anas](https://www.linkedin.com/in/mohd-anas-919275251/) 
-* **Email:** [anasma765@gmail.com]
+* **Email:** [anasma765@gmail.com](mailto:anasma765@gmail.com)
